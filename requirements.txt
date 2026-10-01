@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
+scipy
+xgboost
+torch
+google-generativeai
+python-dotenv
+reportlab
